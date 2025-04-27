@@ -76,7 +76,7 @@ Updated reports reflecting progress or decline.
 **Architecture**
 
 Web Application Workflow:
-![Web_Page_Methodology](Images/WhatsApp Image 2025-04-27 at 11.28.57_2b40a676.jpg)
+![Web_Page_Methodology](https://github.com/nainaasharmaa/Healing-Neuro-DMS-/blob/ae1a25362c9ce7f9ebe34b2585aba27f9d6ff411/Images/WhatsApp%20Image%202025-04-27%20at%2011.28.57_2b40a676.jpg)
 
 
 Chrome Extension User Workflow and Technical Workflow
