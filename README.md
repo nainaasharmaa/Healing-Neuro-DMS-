@@ -12,6 +12,9 @@ https://drive.google.com/drive/folders/1wkWgtGkAlXkPMBx3bplsKSy5blDH8pJU
 **Models Files**
 https://drive.google.com/drive/folders/1VJ_mNjkMSad1xg9gKLCM_OfXyWwyhhJP
 
+**PPT Link**
+https://drive.google.com/drive/folders/1wd3xpYApJlrqYtKRXCcbm5q-LLs-zewG?usp=sharing
+
 <br/>
 
 ## Objectives
@@ -73,7 +76,7 @@ Updated reports reflecting progress or decline.
 **Architecture**
 
 Web Application Workflow:
-![Web_Page_Methodology](https://github.com/user-attachments/assets/9819601d-3d48-4de8-8415-516aee7a8e75)
+![Web_Page_Methodology](Images/WhatsApp Image 2025-04-27 at 11.28.57_2b40a676.jpg)
 
 
 Chrome Extension User Workflow and Technical Workflow
